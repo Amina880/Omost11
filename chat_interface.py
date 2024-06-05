@@ -636,3 +636,4 @@ class ChatInterface(Blocks):
                 if isinstance(deleted_a, str) and isinstance(deleted_b, str):
                     break
         return history, message or "", history
+#just a comment
